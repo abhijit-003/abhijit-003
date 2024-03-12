@@ -4,14 +4,19 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=flat-square&logo=leetcode)](https://leetcode.com/abhijit003/)
 
 ![Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhijit-003&theme=dark)
-<!--
-se
--->
+
+## Quick Facts?
+- Always ready to explore the new things and learn something which satisfies the soul.
+- Hungry for the Logic not for lines of code...
+
 
 <!--
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.abhijit-chavan-a49739227) 
 -->
+
+
+<!--
 ## 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 <br>
@@ -26,6 +31,30 @@ se
  ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 
  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
  ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
+-->
+
+
+
+## 💻 Tech Stack:
+### FrontEnd Development
+- > Languages: HTML, CSS, JavaScript
+  >
+### Backend Development
+- > Languages: Java, Python
+- > Framework/Libraries: Spring boot(Java), numpy(python), pandas(python), matplotlib(python)
+- > API Development: RESTful APIs
+- > Database: MySql
+  
+### Tools and Environments
+- > Web Server: Tomcat
+- > API Testing: Postman
+- > IDE :Visual Studio Code, Ecllipse
+- > Source Code Hosting: Github
+- > Os: Kali linux, Windows
+- > Hacking Tools: Nmap, wireshark, Metasploit, nessus
+
+
+
 
 ##  📊 Stats
 ##  GitHub 
@@ -36,6 +65,8 @@ se
 <br>
 ## GeeksForGeeks 
 ![Gfg profile](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=abhijit003)
+
+
 
 
 
