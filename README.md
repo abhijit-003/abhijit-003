@@ -5,9 +5,9 @@
 
 ![Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhijit-003&theme=dark)
 
-## Quick Facts
-- Always ready to explore the new things and learn something which satisfies the soul.
-- Hungry for the Logic not for lines of code...
+##  Quick Facts
+- 🍁 Always ready to explore the new things and learn new it trends.
+- 🤔 Currently diving deep into Java and backend development.
 
 
 <!--
