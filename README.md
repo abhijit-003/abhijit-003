@@ -62,7 +62,7 @@
 <br>
 ## Leetcode 
 ![LeetCode profile](https://leetcode-stats.vercel.app/api?username=abhijit003&theme=Raspberry)
-<br>
+
 ## GeeksForGeeks 
 ![Gfg profile](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=abhijit003)
 
