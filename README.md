@@ -1,6 +1,6 @@
 # 👨‍💻 Hey, i'm Abhijit Chavan
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github)](https://leetcode.com/abhijit003/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github)](https://github.com/abhijit-003)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=flat-square&logo=leetcode)](https://leetcode.com/abhijit003/)
 
 ![Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhijit-003&theme=dark)
