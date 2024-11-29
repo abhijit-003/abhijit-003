@@ -1,10 +1,33 @@
-# 👨‍💻 Hey, i'm Abhijit Chavan
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=33&duration=4500&pause=1000&vCenter=true&repeat=false&width=539&height=47&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Hey%2C+i'm+Abhijit+Chavan)](https://git.io/typing-svg)
 
+
+<!-- 
 [![LeetCode](https://img.shields.io/badge/linkedin-Profile-blue?style=flat-square&logo=Linkedin)](https://www.linkedin.com/in/abhijit003/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github)](https://github.com/abhijit-003)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=flat-square&logo=leetcode)](https://leetcode.com/abhijit003/)
+-->
 
 
+<div align="center">
+   <!-- GIF Section -->
+  <div id="header" style="margin-top: 20px;">
+    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  </div>
+  <!-- Links Section -->
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/abhijit003/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+   <a href="https://www.geeksforgeeks.org/user/abhijit003/">
+      <img src="https://img.shields.io/badge/geeksforgeeks-black?style=for-the-badge&logo=geeksforgeeks&logoColor=green" alt="YouTube Badge"/>
+    </a>
+    <a href="https://leetcode.com/abhijit003/">
+      <img src="https://img.shields.io/badge/LeetCode-grey?style=for-the-badge&logo=leetcode&logoColor=orange" alt="Twitter Badge"/>
+    </a>
+  </div>
+</div>
+
+<hr >
 
 ![Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhijit-003&theme=dark)
 
