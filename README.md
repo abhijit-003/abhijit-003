@@ -83,9 +83,12 @@
 
 
 ##  📊 Stats
+
+<!--
 ##  GitHub 
 ![Profile](https://github-readme-stats.vercel.app/api?username=abhijit-003&show_icons=true&theme=dark)
 <br>
+-->
 ## Leetcode 
 ![LeetCode profile](https://leetcode-stats.vercel.app/api?username=abhijit003&theme=Raspberry)
 
